@@ -1,4 +1,4 @@
-En este examen que se nos presento en la materia de "Base de datos" debimos de crear una bbdd siguiendo ciertas intrucciones del profesor, en este caso 
+En este examen que se nos presento en la materia de "Base de datos" debiamos de crear una bbdd siguiendo ciertas intrucciones del profesor, en este caso 
 esta base de datos simula el registro de misiones espaciales tripuladas, más específicamente del programa Apolo. Se almacenan datos sobre:
 * Vectores de lanzamiento (cohetes utilizados),
 * Misiones realizadas (con sus fechas, éxito o fracaso, y observaciones),
